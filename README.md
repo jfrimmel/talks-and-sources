@@ -10,6 +10,7 @@ There are design patterns and other design and infrastructure topics as well.
 ## Software Design
 - [GOTO 2016: Small is Beautiful](https://youtu.be/B3b4tremI5o) by Kevlin Henney
 - [GOTO 2017: Code as Risk](https://youtu.be/YyhfK-aBo-Y) by Kevlin Henney
+- [ITT 2016: Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY) by Kevlin Henney
 
 ## Concurrency
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
