@@ -7,6 +7,9 @@ The reader may find various interesting and insightful information here, that ma
 The target audience is basically everyone with interests like myself, i.e. the topics in this list include Rust, C, C++, some Java and other programming languages as well as architecture-talks on x86, ARM, GPUs, etc.
 There are design patterns and other design and infrastructure topics as well.
 
+## Software Design
+- [GOTO 2016: Small is Beautiful](https://youtu.be/B3b4tremI5o) by Kevlin Henney
+
 ## Concurrency
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
 
