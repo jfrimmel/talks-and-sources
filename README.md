@@ -20,8 +20,10 @@ There are design patterns and other design and infrastructure topics as well.
 - [Bay Area Rust Meetup: Data Oriented GUI in Rust](https://youtu.be/4YTfxresvS8) by Ralph Levien
 - [RustConf 2016: A Modern Editor Built in Rust](https://youtu.be/SKtQgFBRUvQ) by Ralph Levien
 
-## C++
+## C/C++
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
+- [CppCon 2018: The Bits Between the Bits: How We Get to main()](https://youtu.be/dOfucXtyEsU) by Matt Godbolt
+- [CppCon 2017: What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://youtu.be/bSkpMdDe4g4) by Matt Godbolt
 
 ## GPU programming
 - [CppCon 2016: CUDA is a low-level language](https://youtu.be/KHa-OSrZPGo) by Justin Lebar
@@ -30,6 +32,7 @@ There are design patterns and other design and infrastructure topics as well.
 - [Black Hat 2017: Breaking the x86 Instruction Set](https://youtu.be/KrksBdWcZgQ) by Christopher Domas
 - [DefCon 26: GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://youtu.be/jmTwlEh8L7g) by Christopher Domas
 - [Black Hat 2015: The Memory Sinkhole](https://youtu.be/lR0nh-TdpVg) by Christopher Domas
+- [ 2018: Spectre: Secrets, Side-Channels, Sandboxes, and Security](https://youtu.be/_f7O3IfIR2k) by Chandler Carruth
 
 ## Miscellaneous
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
