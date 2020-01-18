@@ -15,6 +15,10 @@ There are design patterns and other design and infrastructure topics as well.
 ## Concurrency
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
 
+## Rust
+- [Bay Area Rust Meetup: Data Oriented GUI in Rust](https://youtu.be/4YTfxresvS8) by Ralph Levien
+- [RustConf 2016: A Modern Editor Built in Rust](https://youtu.be/SKtQgFBRUvQ) by Ralph Levien
+
 ## GPU programming
 - [CppCon 2016: CUDA is a low-level language](https://youtu.be/KHa-OSrZPGo) by Justin Lebar
 
