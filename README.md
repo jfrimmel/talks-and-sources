@@ -28,6 +28,7 @@ There are design patterns and other design and infrastructure topics as well.
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
 - [CppCon 2018: The Bits Between the Bits: How We Get to main()](https://youtu.be/dOfucXtyEsU) by Matt Godbolt
 - [CppCon 2017: What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://youtu.be/bSkpMdDe4g4) by Matt Godbolt
+- [CppCon 2016: Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17](https://youtu.be/zBkNBP00wJE) by Jason Turner
 
 ## GPU programming
 - [CppCon 2016: CUDA is a low-level language](https://youtu.be/KHa-OSrZPGo) by Justin Lebar
