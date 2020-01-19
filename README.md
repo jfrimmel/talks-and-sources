@@ -16,6 +16,7 @@ There are design patterns and other design and infrastructure topics as well.
 ## Data Structures
 - [CppCon 2016: High Performance Code 201: Hybrid Data Structures](https://youtu.be/vElZc6zSIXM) by Chandler Carruth
 - [CppCon 2014: Efficiency with Algorithms, Performance with Data Structures](https://youtu.be/fHNmRkzxHWs) by Chandler Carruth
+- _[CppCon 2017: Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://youtu.be/ncHmEUmJZf4) by Matt Kulukundis_
 
 ## Concurrency
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
