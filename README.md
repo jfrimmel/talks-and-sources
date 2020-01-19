@@ -13,6 +13,7 @@ There are design patterns and other design and infrastructure topics as well.
 - [ITT 2016: Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY) by Kevlin Henney
 - [CppCon 2018: OOP Is Dead, Long Live Data-oriented Design](https://youtu.be/yy8jQgmhbAU) by Stoyan Nikolov
 - [CppCon 2014: Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc) by Mike Acton
+- [CppCon 2015: Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://youtu.be/nXaxk27zwlk) by Chandler Carruth
 
 ## Data Structures
 - [CppCon 2016: High Performance Code 201: Hybrid Data Structures](https://youtu.be/vElZc6zSIXM) by Chandler Carruth
