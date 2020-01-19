@@ -41,6 +41,9 @@ There are design patterns and other design and infrastructure topics as well.
 - [ 2018: Spectre: Secrets, Side-Channels, Sandboxes, and Security](https://youtu.be/_f7O3IfIR2k) by Chandler Carruth
 - [CppCon 2017: Going Nowhere Faster](https://youtu.be/2EWejmkKlxs) by Chandler Carruth
 
+## Networking
+- [Black Hat 2017: Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://youtu.be/zP4b3pw94s0) by James Kettle
+
 ## Miscellaneous
 - [Derbycon 2015: The MoVfuscator Turning mov into a soul crushing RE nightmare](https://youtu.be/R7EEoWg6Ekk) by Christopher Domas
 - [ Shakacon: reductio ad absurdum](https://youtu.be/NmWwRmvjAE8) by Christopher Domas
