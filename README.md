@@ -42,8 +42,9 @@ There are design patterns and other design and infrastructure topics as well.
 - [CppCon 2017: Going Nowhere Faster](https://youtu.be/2EWejmkKlxs) by Chandler Carruth
 
 ## Miscellaneous
-- [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
+- [Derbycon 2015: The MoVfuscator Turning mov into a soul crushing RE nightmare](https://youtu.be/R7EEoWg6Ekk) by Christopher Domas
 - [ Shakacon: reductio ad absurdum](https://youtu.be/NmWwRmvjAE8) by Christopher Domas
+- [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
 - [32c3: Traue keinem Scan, den du nicht selbst gefälscht hast](https://youtu.be/7FeqF1-Z1g0) by David Kriesel (_german_)
 
 ## Contribution
