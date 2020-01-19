@@ -38,6 +38,7 @@ There are design patterns and other design and infrastructure topics as well.
 - [DefCon 26: GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://youtu.be/jmTwlEh8L7g) by Christopher Domas
 - [Black Hat 2015: The Memory Sinkhole](https://youtu.be/lR0nh-TdpVg) by Christopher Domas
 - [ 2018: Spectre: Secrets, Side-Channels, Sandboxes, and Security](https://youtu.be/_f7O3IfIR2k) by Chandler Carruth
+- [CppCon 2017: Going Nowhere Faster](https://youtu.be/2EWejmkKlxs) by Chandler Carruth
 
 ## Miscellaneous
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
