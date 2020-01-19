@@ -13,7 +13,6 @@ There are design patterns and other design and infrastructure topics as well.
 - [ITT 2016: Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY) by Kevlin Henney
 - [CppCon 2018: OOP Is Dead, Long Live Data-oriented Design](https://youtu.be/yy8jQgmhbAU) by Stoyan Nikolov
 - [CppCon 2014: Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc) by Mike Acton
-- [CppCon 2015: Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://youtu.be/nXaxk27zwlk) by Chandler Carruth
 
 ## Data Structures
 - [CppCon 2016: High Performance Code 201: Hybrid Data Structures](https://youtu.be/vElZc6zSIXM) by Chandler Carruth
@@ -32,6 +31,7 @@ There are design patterns and other design and infrastructure topics as well.
 - [CppCon 2018: The Bits Between the Bits: How We Get to main()](https://youtu.be/dOfucXtyEsU) by Matt Godbolt
 - [CppCon 2017: What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://youtu.be/bSkpMdDe4g4) by Matt Godbolt
 - [CppCon 2016: Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17](https://youtu.be/zBkNBP00wJE) by Jason Turner
+- [CppCon 2015: Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://youtu.be/nXaxk27zwlk) by Chandler Carruth
 
 ## GPU programming
 - [CppCon 2016: CUDA is a low-level language](https://youtu.be/KHa-OSrZPGo) by Justin Lebar
