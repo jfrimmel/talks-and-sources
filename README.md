@@ -32,6 +32,7 @@ There are design patterns and other design and infrastructure topics as well.
 - [CppCon 2017: What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://youtu.be/bSkpMdDe4g4) by Matt Godbolt
 - [CppCon 2016: Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17](https://youtu.be/zBkNBP00wJE) by Jason Turner
 - [CppCon 2015: Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://youtu.be/nXaxk27zwlk) by Chandler Carruth
+- [CppCon 2016: Garbage In, Garbage Out: Arguing about Undefined Behavior](https://youtu.be/yG1OZ69H_-o) by Chandler Carruth
 
 ## GPU programming
 - [CppCon 2016: CUDA is a low-level language](https://youtu.be/KHa-OSrZPGo) by Justin Lebar
