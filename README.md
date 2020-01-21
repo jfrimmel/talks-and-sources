@@ -25,6 +25,7 @@ There are design patterns and other design and infrastructure topics as well.
 ## Rust
 - [Bay Area Rust Meetup: Data Oriented GUI in Rust](https://youtu.be/4YTfxresvS8) by Ralph Levien
 - [RustConf 2016: A Modern Editor Built in Rust](https://youtu.be/SKtQgFBRUvQ) by Ralph Levien
+- [FOSDEM 2018: Idiomatic Rust](https://youtu.be/P2mooqNMxMs) by Matthias Endler
 
 ## C/C++
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
