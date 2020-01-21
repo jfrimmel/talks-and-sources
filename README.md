@@ -24,7 +24,7 @@ There are design patterns and other design and infrastructure topics as well.
 
 ## Rust
 - [Bay Area Rust Meetup: Data Oriented GUI in Rust](https://youtu.be/4YTfxresvS8) by Ralph Levien
-- [RustConf 2016: A Modern Editor Built in Rust](https://youtu.be/SKtQgFBRUvQ) by Ralph Levien
+- [RustConf 2016: A Modern Editor Built in Rust](https://youtu.be/SKtQgFBRUvQ) and [Recurse Localhost: Xi: an editor for the next 20 years](https://youtu.be/4FbQre9VQLI) by Ralph Levien
 - [FOSDEM 2018: Idiomatic Rust](https://youtu.be/P2mooqNMxMs) by Matthias Endler
 - [Rust Fest 2017: Writing Idiomatic Libraries in Rust](https://youtu.be/0zOg8_B71gE) by Pascal Hertleif
 
