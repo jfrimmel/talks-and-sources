@@ -19,8 +19,10 @@ There are design patterns and other design and infrastructure topics as well.
 - [CppCon 2014: Efficiency with Algorithms, Performance with Data Structures](https://youtu.be/fHNmRkzxHWs) by Chandler Carruth
 - _[CppCon 2017: Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://youtu.be/ncHmEUmJZf4) by Matt Kulukundis_
 
-## Concurrency
+## Concurrency/SIMD/Optimization
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
+- [QCon Sen Francisco 2019: Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ) (_simdjson_) by Daniel Lemire.
+Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 
 ## Rust
 - [Bay Area Rust Meetup: Data Oriented GUI in Rust](https://youtu.be/4YTfxresvS8) by Ralph Levien
