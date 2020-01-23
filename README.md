@@ -29,6 +29,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [RustConf 2016: A Modern Editor Built in Rust](https://youtu.be/SKtQgFBRUvQ) and [Recurse Localhost: Xi: an editor for the next 20 years](https://youtu.be/4FbQre9VQLI) by Ralph Levien
 - [FOSDEM 2018: Idiomatic Rust](https://youtu.be/P2mooqNMxMs) by Matthias Endler
 - [Rust Fest 2017: Writing Idiomatic Libraries in Rust](https://youtu.be/0zOg8_B71gE) by Pascal Hertleif
+- [Rust Belt Rust Conference 2017: Rayon: Data Parallelism for Fun and Profit](https://youtu.be/gof_OEv71Aw) by Nicholas Matsakis
 
 ## C/C++
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
