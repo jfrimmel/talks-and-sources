@@ -21,7 +21,7 @@ There are design patterns and other design and infrastructure topics as well.
 
 ## Concurrency/SIMD/Optimization
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
-- [QCon Sen Francisco 2019: Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ) (_simdjson_) by Daniel Lemire.
+- [QCon San Francisco 2019: Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ) (_simdjson_) by Daniel Lemire.
 Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 
 ## Rust
@@ -30,6 +30,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [FOSDEM 2018: Idiomatic Rust](https://youtu.be/P2mooqNMxMs) by Matthias Endler
 - [Rust Fest 2017: Writing Idiomatic Libraries in Rust](https://youtu.be/0zOg8_B71gE) by Pascal Hertleif
 - [Rust Belt Rust Conference 2017: Rayon: Data Parallelism for Fun and Profit](https://youtu.be/gof_OEv71Aw) by Nicholas Matsakis
+- [QCon New York 2019: Rust's Journey to Async/Await](https://youtu.be/lJ3NC-R3gSI) by Steve Klabnik
 
 ## C/C++
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
