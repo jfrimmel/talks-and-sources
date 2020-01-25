@@ -59,6 +59,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
 - [32c3: Traue keinem Scan, den du nicht selbst gefälscht hast](https://youtu.be/7FeqF1-Z1g0) by David Kriesel (_german_)
 - [NDC Conference 2017: Abusing C#](https://youtu.be/JIlO_EebEQI) by Jon Skeet
+- [How we fit an NES game into 40 Kilobytes](https://youtu.be/ZWQ0591PAxM) by Morphcat Games
 
 ## Contribution
 Feel free to open a PR or issue with links to other talks and papers.
