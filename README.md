@@ -7,6 +7,8 @@ The reader may find various interesting and insightful information here, that ma
 The target audience is basically everyone with interests like myself, i.e. the topics in this list include Rust, C, C++, some Java and other programming languages as well as architecture-talks on x86, ARM, GPUs, etc.
 There are design patterns and other design and infrastructure topics as well.
 
+Links written in _italics_ are somwhat different from the others, i.e. are no real talks, but more tutorials, rambling, tutorials or informal sources.
+
 ## Software Design
 - [GOTO 2016: Small is Beautiful](https://youtu.be/B3b4tremI5o) by Kevlin Henney
 - [GOTO 2017: Code as Risk](https://youtu.be/YyhfK-aBo-Y) by Kevlin Henney
@@ -59,7 +61,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
 - [32c3: Traue keinem Scan, den du nicht selbst gefälscht hast](https://youtu.be/7FeqF1-Z1g0) by David Kriesel (_german_)
 - [NDC Conference 2017: Abusing C#](https://youtu.be/JIlO_EebEQI) by Jon Skeet
-- [How we fit an NES game into 40 Kilobytes](https://youtu.be/ZWQ0591PAxM) by Morphcat Games
+- _[How we fit an NES game into 40 Kilobytes](https://youtu.be/ZWQ0591PAxM) by Morphcat Games_
 
 ## Contribution
 Feel free to open a PR or issue with links to other talks and papers.
