@@ -56,10 +56,13 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 ## Networking
 - [Black Hat 2017: Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://youtu.be/zP4b3pw94s0) by James Kettle
 
-## Miscellaneous
+## Security
 - [Derbycon 2015: The MoVfuscator Turning mov into a soul crushing RE nightmare](https://youtu.be/R7EEoWg6Ekk) by Christopher Domas
-- [ Shakacon: reductio ad absurdum](https://youtu.be/NmWwRmvjAE8) by Christopher Domas
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
+- [Fuzzing: Hack, Art, and Science](https://patricegodefroid.github.io/public_psfiles/Fuzzing-101-CACM2020.pdf) by Patrice Godefroid
+
+## Miscellaneous
+- [ Shakacon: reductio ad absurdum](https://youtu.be/NmWwRmvjAE8) by Christopher Domas
 - [32c3: Traue keinem Scan, den du nicht selbst gefälscht hast](https://youtu.be/7FeqF1-Z1g0) by David Kriesel (_german_)
 - [NDC Conference 2017: Abusing C#](https://youtu.be/JIlO_EebEQI) by Jon Skeet
 - _[How we fit an NES game into 40 Kilobytes](https://youtu.be/ZWQ0591PAxM) by Morphcat Games_
