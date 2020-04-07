@@ -26,6 +26,7 @@ Links written in _italics_ are somwhat different from the others, i.e. are no re
 - [Rust at speed - building a fast concurrent database](https://youtu.be/s19G6n0UjsM) by Jon Gjengset
 - [QCon San Francisco 2019: Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ) (_simdjson_) by Daniel Lemire.
 Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
+- [CppCon 2014: Lock-Free Programming (or, Juggling Razor Blades), Part I](https://www.youtube.com/watch?v=c1gO9aB9nbs) by Herb Sutter
 
 ## Rust
 - [Bay Area Rust Meetup: Data Oriented GUI in Rust](https://youtu.be/4YTfxresvS8) by Ralph Levien
