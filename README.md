@@ -61,6 +61,10 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
 - [Fuzzing: Hack, Art, and Science](https://patricegodefroid.github.io/public_psfiles/Fuzzing-101-CACM2020.pdf) by Patrice Godefroid
 
+## Text redering/editing
+- [Text Redering Hates You](https://gankra.github.io/blah/text-hates-you/)
+- [Text Editing Hates You Too](https://lord.io/blog/2019/text-editing-hates-you-too/)
+
 ## Miscellaneous
 - [ Shakacon: reductio ad absurdum](https://youtu.be/NmWwRmvjAE8) by Christopher Domas
 - [32c3: Traue keinem Scan, den du nicht selbst gefälscht hast](https://youtu.be/7FeqF1-Z1g0) by David Kriesel (_german_)
