@@ -13,6 +13,7 @@ Links written in _italics_ are somwhat different from the others, i.e. are no re
 - [GOTO 2016: Small is Beautiful](https://youtu.be/B3b4tremI5o) by Kevlin Henney
 - [GOTO 2017: Code as Risk](https://youtu.be/YyhfK-aBo-Y) by Kevlin Henney
 - [ITT 2016: Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY) by Kevlin Henney
+- [NDC London 2017: Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://youtu.be/FyCYva9DhsI), especially the [part on Java imports](https://youtu.be/FyCYva9DhsI?t=1674)
 - [CppCon 2018: OOP Is Dead, Long Live Data-oriented Design](https://youtu.be/yy8jQgmhbAU) by Stoyan Nikolov
 - [Meeting C++ 2018: Data oriented design in practice](https://youtu.be/NWMx1Q66c14) by Stoyan Nikolov
 - [CppCon 2014: Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc) by Mike Acton
