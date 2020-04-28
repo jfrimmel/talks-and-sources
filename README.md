@@ -45,6 +45,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [CppCon 2016: Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17](https://youtu.be/zBkNBP00wJE) by Jason Turner
 - [CppCon 2015: Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://youtu.be/nXaxk27zwlk) by Chandler Carruth
 - [CppCon 2016: Garbage In, Garbage Out: Arguing about Undefined Behavior](https://youtu.be/yG1OZ69H_-o) by Chandler Carruth
+- [Build Stuff 2017 - Functional C++](https://youtu.be/CIg6eyJv4dk) by Kevlin Henney
 
 ## GPU programming
 - [CppCon 2016: CUDA is a low-level language](https://youtu.be/KHa-OSrZPGo) by Justin Lebar
