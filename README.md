@@ -37,6 +37,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [Rust Fest 2017: Writing Idiomatic Libraries in Rust](https://youtu.be/0zOg8_B71gE) by Pascal Hertleif
 - [Rust Belt Rust Conference 2017: Rayon: Data Parallelism for Fun and Profit](https://youtu.be/gof_OEv71Aw) by Nicholas Matsakis
 - [QCon New York 2019: Rust's Journey to Async/Await](https://youtu.be/lJ3NC-R3gSI) by Steve Klabnik
+- [RustConf 2019: Taking Constant Evaluation to the Limit](https://youtu.be/SOfq0aqQZf8) by Oliver Schneider
 
 ## C/C++
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
