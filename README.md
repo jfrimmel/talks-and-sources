@@ -71,6 +71,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [Text Editing Hates You Too](https://lord.io/blog/2019/text-editing-hates-you-too/)
 
 ## Miscellaneous
+- [Chrome Dev Summit 2019: Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0) by Mathias Bynens _(a contra-intuitive fact about JavaScript and JSON parsing)
 - [ Shakacon: reductio ad absurdum](https://youtu.be/NmWwRmvjAE8) by Christopher Domas
 - [32c3: Traue keinem Scan, den du nicht selbst gefälscht hast](https://youtu.be/7FeqF1-Z1g0) by David Kriesel (_german_)
 - [NDC Conference 2017: Abusing C#](https://youtu.be/JIlO_EebEQI) by Jon Skeet
