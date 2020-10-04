@@ -18,6 +18,7 @@ Links written in _italics_ are somwhat different from the others, i.e. are no re
 - [CppCon 2018: OOP Is Dead, Long Live Data-oriented Design](https://youtu.be/yy8jQgmhbAU) by Stoyan Nikolov
 - [Meeting C++ 2018: Data oriented design in practice](https://youtu.be/NWMx1Q66c14) by Stoyan Nikolov
 - [CppCon 2014: Data-Oriented Design and C++](https://youtu.be/rX0ItVEVjHc) by Mike Acton
+- [Parse, don't validate (the essence of type-driven design)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) by Alexis King
 
 ## Data Structures
 - [CppCon 2016: High Performance Code 201: Hybrid Data Structures](https://youtu.be/vElZc6zSIXM) by Chandler Carruth
