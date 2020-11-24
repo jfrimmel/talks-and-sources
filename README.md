@@ -7,7 +7,7 @@ The reader may find various interesting and insightful information here, that ma
 The target audience is basically everyone with interests like myself, i.e. the topics in this list include Rust, C, C++, some Java and other programming languages as well as architecture-talks on x86, ARM, GPUs, etc.
 There are design patterns and other design and infrastructure topics as well.
 
-Links written in _italics_ are somwhat different from the others, i.e. are no real talks, but more tutorials, rambling, tutorials or informal sources.
+Links written in _italics_ are somewhat different from the others, i.e. are no real talks, but more tutorials, rambling, tutorials or informal sources.
 
 ## Software Design
 - [GOTO 2016: Small is Beautiful](https://youtu.be/B3b4tremI5o) by Kevlin Henney
@@ -39,6 +39,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [Rust Belt Rust Conference 2017: Rayon: Data Parallelism for Fun and Profit](https://youtu.be/gof_OEv71Aw) by Nicholas Matsakis
 - [QCon New York 2019: Rust's Journey to Async/Await](https://youtu.be/lJ3NC-R3gSI) by Steve Klabnik
 - [RustConf 2019: Taking Constant Evaluation to the Limit](https://youtu.be/SOfq0aqQZf8) by Oliver Schneider
+- [RustConf 2020: Error handling Isn't All About Errors](https://youtu.be/rAF8mLI0naQ) by Jane Lusby
 
 ## C/C++
 - [CppCon 2017: Curiously Recurring C++ Bugs at Facebook](https://youtu.be/lkgszkPnV8g) by Louis Brandy
