@@ -67,6 +67,7 @@ Also see [the paper](https://arxiv.org/pdf/1902.08318.pdf) on that topic.
 - [Derbycon 2015: The MoVfuscator Turning mov into a soul crushing RE nightmare](https://youtu.be/R7EEoWg6Ekk) by Christopher Domas
 - [DEF CON 23: Repsych: Psychological Warfare in Reverse Engineering](https://youtu.be/HlUe0TUHOIc) by Christopher Domas
 - [Fuzzing: Hack, Art, and Science](https://patricegodefroid.github.io/public_psfiles/Fuzzing-101-CACM2020.pdf) by Patrice Godefroid
+- _[CppCon 2015: Racing the File System](https://raw.githubusercontent.com/CppCon/CppCon2015/master/Tutorials/Racing%20the%20Filesystem/Racing%20the%20Filesystem%20-%20Niall%20Douglas%20-%20CppCon%202015.pdf) by Niall Douglas (slides from a workshop)_
 
 ## Text redering/editing
 - [Text Redering Hates You](https://gankra.github.io/blah/text-hates-you/)
